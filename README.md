@@ -6,3 +6,8 @@
 * Bullet 2
  
  Paragraph text here
+
+```ruby
+puts "this is code"
+if this then that
+```
